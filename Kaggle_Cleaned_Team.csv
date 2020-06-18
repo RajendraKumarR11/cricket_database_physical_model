@@ -1,0 +1,13 @@
+Team_ID,Team_Name,Rank,Points,Rating,Team_Matches_Played,Matches_Won,Matches_Lost,Matches_Tied,Matches_With_No_Result
+england,England,1,6918,126,721,360,328,8,25
+india,India,2,7000,121,953,492,412,9,40
+new zealand,New Zealand,3,5188,113,750,338,366,6,40
+south africa,South Africa,4,4985,111,600,370,208,6,16
+pakistan,Pakistan,5,4370,102,902,477,398,8,19
+australia,Australia,6,3980,100,919,557,319,9,34
+bangladesh,Bangladesh,7,3608,93,355,118,230,0,7
+sri lanka,Sri Lanka,8,4426,78,831,379,410,5,37
+west indies,West Indies,9,2899,72,788,388,363,10,27
+afghanistan,Afghanistan,10,2394,67,106,55,48,1,2
+zimbabwe,Zimbabwe,11,2497,52,517,134,365,7,11
+ireland,Ireland,12,904,39,139,61,68,3,7
